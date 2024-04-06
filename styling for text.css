@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <style>
+            body{background-color:rgb(239, 200, 102);}
+            a{font-size:15;
+              color: rgb(19, 171, 156);
+              background-color: rgb(196, 63, 26);}
+
+            P{font-size:large;
+              font-style: italic;
+              font-weight:1000;
+              background-color: rgb(19, 156, 62);}
+
+            h1{font-style: italic;
+               background-color: rgb(241, 230, 223);
+               font-size:38;
+               font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+          input{color: rgba(2, 13, 13, 0.918);
+                background-color: chartreuse;
+                padding:05 10 05 10;
+                border: 2px solid black;}    
+
+
+                              
+        </style>
+        <h1><center>Our World</center></h1>
+        </head>
+       
+        <body>
+            <Pre>
+    <a href="Goddess durga Devi Image.jpg">Home</a>      <a href="You are the best friend.html">Main</a>        <a href="Fieldset and legend prepared resume.html">Matters</a>           <a href="Prime Video.html">Content</a>           <a href="Tiffen Restaurant.html">Contact us</a>
+
+            </pre>       
+      </body>
+<center>
+    <h1> Tigers and leopards are animals that live in India's forests in the north. In the jungles, monkeys swing in the trees and elephants walk through the brush. There are camels in the deserts in India that people use for transportation.</h1>
+    <p>Frederick Douglass was, as we have seen, a pioneer in American education, proving that education was a major force for social change with regard to slavery</p>
+
+<input type="button" value="Submit">
+</center>
+
+
+<center><p class="Thank you">Thank you</p></center>
+</body>
+</html>
+    
+
+        
